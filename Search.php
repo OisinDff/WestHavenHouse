@@ -12,6 +12,13 @@
 <body>
     <?php require "layout/header.php"; ?>
 
+    <section>
+        <div class="search-section">
+            <h2>Browse Our Rooms Below</h2>
+            <input type="text" placeholder="Search.." name="search">
+            <button type="submit"><i class="fa fa-search"></i></button>
+        </div>
+    </section>
 
 </body>
 
