@@ -16,13 +16,13 @@ body {
 
 .recommendedContainer>div {
   background-color: azure;
-  width: 50%;
+  width: 600px;
   margin: 10px;
   border-radius: 30px;
   box-shadow: 0px 0px 10px #a8a8a8;
   display: flex;
   align-items: center;
-  padding: 15px;
+  padding: 10px;
 }
 
 .flexContainer {
@@ -145,7 +145,6 @@ section {
   background: #ddd;
   box-shadow: 0px 0px 10px #a8a8a8;
   width: 80%;
-  /* Adjusted width to make the search box longer */
 }
 
 .search-section button {
@@ -234,4 +233,8 @@ section {
 
 .bookingContainer form input[type="submit"]:hover {
   background-color: #45a049;
+}
+
+.recRoomHeader {
+  text-align: center;
 }

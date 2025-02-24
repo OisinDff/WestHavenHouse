@@ -2,16 +2,16 @@
 function getRooms()
 {
     return [
-        ["name" => "Room 1", "image" => "room5.png", "description" => "A charming room with a vintage decor."],
+        ["name" => "Room 1", "image" => "room1.jpg", "description" => "A charming room with a vintage decor."],
         ["name" => "Room 2", "image" => "room2.jpg", "description" => "A cozy room with a beautiful view."],
         ["name" => "Room 3", "image" => "room3.jpg", "description" => "A spacious room with modern amenities."],
         ["name" => "Room 4", "image" => "room4.png", "description" => "A luxurious room with a king-sized bed."],
-        ["name" => "Room 5", "image" => "room5.png", "description" => "A charming room with a vintage decor."],
+        ["name" => "Room 5", "image" => "room5.png", "description" => "A room with vintage decor."],
         ["name" => "Room 6", "image" => "room6.png", "description" => "A stylish room with a contemporary design."],
-        ["name" => "Room 7", "image" => "room5.png", "description" => "A charming room with a vintage decor."],
-        ["name" => "Room 8", "image" => "room5.png", "description" => "A charming room with a vintage decor."],
-        ["name" => "Room 9", "image" => "room5.png", "description" => "A charming room with a vintage decor."],
-        ["name" => "Room 10", "image" => "room5.png", "description" => "A charming room with a vintage decor."]
+        ["name" => "Room 7", "image" => "room7.jpg", "description" => "A vintage decor room."],
+        ["name" => "Room 8", "image" => "room8.jpg", "description" => "A charming room with a vintage decor."],
+        ["name" => "Room 9", "image" => "room9.jpg", "description" => "A room with charming vintage decor."],
+        ["name" => "Room 10", "image" => "room10.jpg", "description" => "A charming vintage room."]
     ];
 }
 
