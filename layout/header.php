@@ -4,9 +4,9 @@
 <p class="location"><i class="fa fa-home" style="font-size:24px; padding-right:5px"></i>Doolin Toomilin, Doolin, Ireland</p>
 
 <div class="topnav">
-    <a class="active" href="/index.php">Home</a>
+    <a href="/index.php">Home</a>
     <a href="/BookYourStay.php">Book Your Stay</a>
-    <a href="#about">About Us</a>
+    <a href="/AboutUs.php">About Us</a>
     <a href="#contact">Contact Us</a>
     <a href="/Search.php">Search</a>
     <div class="search-container">

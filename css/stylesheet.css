@@ -1,6 +1,7 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  /* background-color: #f4f4f4; */
+  background-image: url('/images/green_background.jpg');
 }
 
 .recommendedContainer {
@@ -237,4 +238,22 @@ section {
 
 .recRoomHeader {
   text-align: center;
+}
+
+.aboutusSection {
+  /* background-color: red; */
+  /* width: 50%; */
+}
+
+.aboutusDiv {
+  background-color: blue;
+  /*this is just blue so i can see whats going on*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  align-items: flex-start;
+  padding-top: 100px;
+  text-align: center;
+  margin: auto;
 }
