@@ -7,7 +7,7 @@
     <a href="/index.php">Home</a>
     <a href="/BookYourStay.php">Book Your Stay</a>
     <a href="/AboutUs.php">About Us</a>
-    <a href="#contact">Contact Us</a>
+    <a href="Contact.php">Contact Us</a>
     <a href="/Search.php">Search</a>
     <div class="search-container">
         <form action="/action_page.php">
