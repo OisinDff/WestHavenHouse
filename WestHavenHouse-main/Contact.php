@@ -44,7 +44,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "DataBase2024!";
+$password = "3fr5rmfrpbyJ.";
 $dbname = "westhavenhouse";
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
