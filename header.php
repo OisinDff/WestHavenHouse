@@ -9,7 +9,6 @@
     <a href="/AboutUs.php">About Us</a>
     <a href="/Contact.php">Contact Us</a>
     <a href="/Search.php">Search</a>
-    <a href="/Login.php">Login</a>
     <div class="search-container">
         <form action="/action_page.php">
             <input type="text" placeholder="Search.." name="search">
