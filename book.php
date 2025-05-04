@@ -12,7 +12,7 @@
     <?php require "layout/header.php"; ?>
 
     <div class="bookingContainer">
-        <form action="functions/booking.php" method="post">
+        <form action="/Booking.php" method="post">
             <h1>Book Your Stay</h1>
             <label for="name">Name:</label>
             <input type="text" id="name" name="name" required>
@@ -34,7 +34,9 @@
             <input type="date" id="checkout" name="checkout" required>
             <input type="submit" value="Book">
         </form>
-
+</div>
 </body>
+<br><br><br>
+<?php require "layout/footer.php"; ?>
 
 </html>
