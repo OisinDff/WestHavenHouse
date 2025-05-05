@@ -11,7 +11,8 @@ B00168065 Stephen Smyth
      single.php, user.php
 
 B00164972 Oisin Duff
-- abc
+- creation of html and css and images in website
+- BookYourStay, Contact, search, Book, Header funtion, Index, Room
 
 References:
 -w3schools
